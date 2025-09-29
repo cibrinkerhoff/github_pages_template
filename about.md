@@ -13,24 +13,24 @@ Write a brief introduction about yourself here. Include:
 
 ## Education
 
-- **[Your Degree]** - [University Name], [Year]
-- **Relevant Coursework**: Statistics, Data Analysis, Programming, etc.
+- **[Statistics]** - Brigham Young University, 2026
+- **Relevant Coursework**: Statistics, Data Analysis, Programming, Machine Learning, Probabibility and Inference, Data Visualization
 
 ## Skills & Interests
 
 ### Technical Skills
-- **Programming**: Python
+- **Programming**: Python, R, SQL, C++
 - **Data Analysis**: Pandas, NumPy
-- **Visualization**: Matplotlib, Seaborn
+- **Visualization**: Matplotlib, Seaborn, GGplot
 - **Machine Learning**: Scikit-learn
 - **Tools**: Jupyter Notebooks, Git/GitHub
 
 ### Areas of Interest
-- [Your specific interests, e.g., environmental data, healthcare analytics, finance, etc.]
-- [Other areas you're curious about]
+- BI and Data Visualization
+- Machine Learning and AI
+- Data Consulting
 
 ## Goals
-
 Describe what you hope to achieve through your data science journey:
 
 - Short-term learning objectives
@@ -39,8 +39,8 @@ Describe what you hope to achieve through your data science journey:
 
 ## Contact
 
-- **Email**: your.email@example.com
-- **GitHub**: [github.com/your-username](https://github.com/your-username)
+- **Email**: brink.corbin@gmail.com
+- **GitHub**: [github.com/your-cibrinkerhoff](https://github.com/your-cibrinkerhoff)
 - **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 
 ---
