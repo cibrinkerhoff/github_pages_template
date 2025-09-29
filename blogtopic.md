@@ -9,7 +9,7 @@ In this blog post, I will explain the basics of linear regression. I will provid
 One of the most important things you can do for yourself is to have tidy data. Depending on how your data is given to you, it can make the whole coding process exponentially easier. While we will not go into how to create tidy data in this blog post, know that if you have data in a format where you have a clear x and y variable, it will make your life a lot easier.
 
 ## Python Packages
-We will be using five different Python packages in our code. I will list what they are and briefly explain what we will be using them for. Know that there is much more to each of these packages, but since we are learning about the simple linear regression model and not about packages themselves, I will briefly explain what they are used for. 
+We will be using five different [Python packages](https://www.datacamp.com/blog/top-python-libraries-for-data-science) in our code. I will list what they are and briefly explain what we will be using them for. Know that there is much more to each of these packages, but since we are learning about the simple linear regression model and not about packages themselves, I will briefly explain what they are used for. 
 
 - `pandas` was used to organize and manipulate the data.  
 - `seaborn` was used to create visualizations like scatterplots and regression lines.  
