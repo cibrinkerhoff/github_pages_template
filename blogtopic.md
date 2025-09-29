@@ -123,6 +123,8 @@ correlation, _ = pearsonr(df['Advertising Budget (in thousands)'], df['Sales (in
 This code returns a correlation of approximately 0.97, indicating a very strong positive linear relationship between advertising budget and sales in this example.
 
 ## Conclusion
-In conclusion, linear regression is a powerful tool that can help you understand the relationship between two variables. By fitting a best-fit line to your data, you can quantify how changes in one variable may affect another. The correlation coefficient further aids in assessing the strength and direction of this relationship. With the provided Python code, you can easily implement linear regression and visualize the results, making it a valuable skill for data analysis in various fields. Whether you're working on academic research or business analytics, mastering linear regression will enhance your ability to make informed decisions based on data. Try it out, you will find it easier than you think!
+In conclusion, linear regression is a powerful tool that can help you understand the relationship between two variables. By fitting a best-fit line to your data, you can quantify how changes in one variable may affect another. The correlation coefficient further aids in assessing the strength and direction of this relationship. With the provided Python code, you can easily implement linear regression and visualize the results, making it a valuable skill for data analysis in various fields. Whether you're working on academic research or business analytics, mastering linear regression will enhance your ability to make informed decisions based on data. 
+
+Try the code about using your own data! It is easier than you think.
 
 Thank you for reading my blog post! If you have any questions or comments, feel free to reach out.
