@@ -4,12 +4,6 @@ title: "About Me"
 
 ## Background
 
-Write a brief introduction about yourself here. Include:
-
-- Your academic background
-- Your interest in data science
-- Your career goals
-- Any relevant experience or projects
 I'm a Bachelor of Statistics student at Brigham Young University with a Data Science emphasis, projected to graduate in April 2026. I enjoy applying statistical methods and programming to real-world data problems, and I'm currently taking advanced coursework in data science, linear regression, and machine learning. I lived two years in Portugal and became fluent in Portuguese, which I hope to use to help bridge data science opportunities internationally.
 
 ## Education
