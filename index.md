@@ -6,6 +6,14 @@ title: "Welcome to My Data Science Portfolio"
 
 Welcome to my data science portfolio! This site shows my journey learning data science and analytics. Here you'll find projects that demonstrate what I've learned and discovered.
 
+## Background
+
+I'm a Bachelor of Statistics student at Brigham Young University with a Data Science emphasis, projected to graduate in April 2026. I enjoy applying statistical methods and programming to real-world data problems, and I'm currently taking advanced coursework in data science, linear regression, and machine learning. I lived two years in Portugal and became fluent in Portuguese, which I hope to use to help bridge data science opportunities internationally. I hope to pursue a career in data science or analytics after graduation, leveraging my skills to drive data-informed decision-making.
+
+## Purpose of this Website
+
+This website serves as a portfolio to showcase my learning journey in data science and analytics. It's a place where I document my projects, share insights, and demonstrate the skills I've developed throughout my studies.
+
 ## 🎓 About This Portfolio
 
 This portfolio shows my work learning data science. Each project includes:
