@@ -9,7 +9,7 @@ In this blog post, I will explain the basics of linear regression. I will provid
 One of the most important things you can do for yourself is to have tidy data. Depending on how your data is given to you, it can make the whole coding process exponentially easier. While we will not go into how to create tidy data in this blog post, know that if you have data in a format where you have a clear x and y variable, it will make your life a lot easier.
 
 ## Python Packages
-We will be using five different Python packages in our code. I will list what they are and briefly explain what we will be using them for. Know that there is much more to each of these packages, but since we are learning about the simple linear regression model and not about packages themselves, I will briefly explain what they are used for. 
+We will be using five different [Python packages](https://www.datacamp.com/blog/top-python-libraries-for-data-science) in our code. I will list what they are and briefly explain what we will be using them for. Know that there is much more to each of these packages, but since we are learning about the simple linear regression model and not about packages themselves, I will briefly explain what they are used for. 
 
 - `pandas` was used to organize and manipulate the data.  
 - `seaborn` was used to create visualizations like scatterplots and regression lines.  
@@ -123,6 +123,8 @@ correlation, _ = pearsonr(df['Advertising Budget (in thousands)'], df['Sales (in
 This code returns a correlation of approximately 0.97, indicating a very strong positive linear relationship between advertising budget and sales in this example.
 
 ## Conclusion
-In conclusion, linear regression is a powerful tool that can help you understand the relationship between two variables. By fitting a best-fit line to your data, you can quantify how changes in one variable may affect another. The correlation coefficient further aids in assessing the strength and direction of this relationship. With the provided Python code, you can easily implement linear regression and visualize the results, making it a valuable skill for data analysis in various fields. Whether you're working on academic research or business analytics, mastering linear regression will enhance your ability to make informed decisions based on data. Try it out, you will find it easier than you think!
+In conclusion, linear regression is a powerful tool that can help you understand the relationship between two variables. By fitting a best-fit line to your data, you can quantify how changes in one variable may affect another. The correlation coefficient further aids in assessing the strength and direction of this relationship. With the provided Python code, you can easily implement linear regression and visualize the results, making it a valuable skill for data analysis in various fields. Whether you're working on academic research or business analytics, mastering linear regression will enhance your ability to make informed decisions based on data. 
+
+Try the code about using your own data! It is easier than you think.
 
 Thank you for reading my blog post! If you have any questions or comments, feel free to reach out.
