@@ -2,9 +2,9 @@
 title: "About Me – Corbin Brinkerhoff"
 ---
 
-## Background
+## Me
 
-I'm a Bachelor of Statistics student at Brigham Young University with a Data Science emphasis, projected to graduate in April 2026. I enjoy applying statistical methods and programming to real-world data problems, and I'm currently taking advanced coursework in data science, linear regression, and machine learning. I lived two years in Portugal and became fluent in Portuguese, which I hope to use to help bridge data science opportunities internationally.
+![Corbin Brinkerhoff]('Screenshot 2025-01-06 101038.png'){width=200px}
 
 ## Education
 
