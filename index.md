@@ -32,7 +32,7 @@ I built this site using [Quarto](https://quarto.org/) and host it on [GitHub Pag
 - **Analysis**: Finding patterns and answering questions with data
 
 ## Check Out My Blog Post on Simple Linear Regression
-Read my latest blog post where I explain simple linear regression and correlation with Python code examples: [Visualizing Correlations: Do Advertising Budgets Drive Sales?](blogtopic.md)
+Read my latest blog post where I explain simple linear regression and correlation with some Python code examples: [Visualizing Correlations: Do Advertising Budgets Drive Sales?](blogtopic.md)
 
 ## 📈 My Projects
 
