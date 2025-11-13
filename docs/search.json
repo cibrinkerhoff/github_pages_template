@@ -1,0 +1,248 @@
+[
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects Overview",
+    "section": "",
+    "text": "Description: Pick a dataset and explore it to discover insights and answer questions.\n\n\n\nDescription: Find an interesting data source, collect the data, and prepare it for analysis.\n\n\n\nDescription: A comprehensive project that shows off my data science skills.",
+    "crumbs": [
+      "Projects Overview"
+    ]
+  },
+  {
+    "objectID": "projects/index.html#all-projects",
+    "href": "projects/index.html#all-projects",
+    "title": "Projects Overview",
+    "section": "",
+    "text": "Description: Pick a dataset and explore it to discover insights and answer questions.\n\n\n\nDescription: Find an interesting data source, collect the data, and prepare it for analysis.\n\n\n\nDescription: A comprehensive project that shows off my data science skills.",
+    "crumbs": [
+      "Projects Overview"
+    ]
+  },
+  {
+    "objectID": "projects/eda.html",
+    "href": "projects/eda.html",
+    "title": "EDA Project",
+    "section": "",
+    "text": "This is coming down the pipeline. Check again later.",
+    "crumbs": [
+      "EDA Project"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Data Science Portfolio",
+    "section": "",
+    "text": "Welcome to my data science portfolio! This site shows my journey learning data science and analytics. Here you’ll find projects that demonstrate what I’ve learned and discovered.\n\n\nI’m a Bachelor of Statistics student at Brigham Young University with a Data Science emphasis, projected to graduate in April 2026. I enjoy applying statistical methods and programming to real-world data problems, and I’m currently taking advanced coursework in data science, linear regression, and machine learning. I lived two years in Portugal and became fluent in Portuguese, which I hope to use to help bridge data science opportunities internationally. I hope to pursue a career in data science or analytics after graduation, leveraging my skills to drive data-informed decision-making.\n\n\n\nThis website serves as a portfolio to showcase my learning journey in data science and analytics. It’s a place where I document my projects, share insights, and demonstrate the skills I’ve developed throughout my studies.\n\n\n\nThis portfolio shows my work learning data science. Each project includes:\n\nMy code with documentation\nVisualizations I created\nWhat I learned and discovered\n\nI built this site using Quarto and host it on GitHub Pages.\n\n\n\n\nProgramming: Python, Pandas for data analysis\nVisualization: Creating charts with Matplotlib and Seaborn\nData Collection: Getting data from files, websites, and APIs\nAnalysis: Finding patterns and answering questions with data\n\n\n\n\nRead my latest blog post where I explain simple linear regression and correlation with some Python code examples: Visualizing Correlations: Do Advertising Budgets Drive Sales?\n\n\n\n\n\n\nLearn how I explore datasets to find interesting patterns and answer questions.\n\n\n\nSee how I gather data from different sources and prepare it for analysis.\n\n\n\nSee how I tackle a data science project beginning to end.\n\n\n\nThanks for visiting! Feel free to explore my projects and see what I’m learning."
+  },
+  {
+    "objectID": "index.html#background",
+    "href": "index.html#background",
+    "title": "Welcome to My Data Science Portfolio",
+    "section": "",
+    "text": "I’m a Bachelor of Statistics student at Brigham Young University with a Data Science emphasis, projected to graduate in April 2026. I enjoy applying statistical methods and programming to real-world data problems, and I’m currently taking advanced coursework in data science, linear regression, and machine learning. I lived two years in Portugal and became fluent in Portuguese, which I hope to use to help bridge data science opportunities internationally. I hope to pursue a career in data science or analytics after graduation, leveraging my skills to drive data-informed decision-making."
+  },
+  {
+    "objectID": "index.html#purpose-of-this-website",
+    "href": "index.html#purpose-of-this-website",
+    "title": "Welcome to My Data Science Portfolio",
+    "section": "",
+    "text": "This website serves as a portfolio to showcase my learning journey in data science and analytics. It’s a place where I document my projects, share insights, and demonstrate the skills I’ve developed throughout my studies."
+  },
+  {
+    "objectID": "index.html#about-this-portfolio",
+    "href": "index.html#about-this-portfolio",
+    "title": "Welcome to My Data Science Portfolio",
+    "section": "",
+    "text": "This portfolio shows my work learning data science. Each project includes:\n\nMy code with documentation\nVisualizations I created\nWhat I learned and discovered\n\nI built this site using Quarto and host it on GitHub Pages."
+  },
+  {
+    "objectID": "index.html#skills-im-learning",
+    "href": "index.html#skills-im-learning",
+    "title": "Welcome to My Data Science Portfolio",
+    "section": "",
+    "text": "Programming: Python, Pandas for data analysis\nVisualization: Creating charts with Matplotlib and Seaborn\nData Collection: Getting data from files, websites, and APIs\nAnalysis: Finding patterns and answering questions with data"
+  },
+  {
+    "objectID": "index.html#check-out-my-blog-post-on-simple-linear-regression",
+    "href": "index.html#check-out-my-blog-post-on-simple-linear-regression",
+    "title": "Welcome to My Data Science Portfolio",
+    "section": "",
+    "text": "Read my latest blog post where I explain simple linear regression and correlation with some Python code examples: Visualizing Correlations: Do Advertising Budgets Drive Sales?"
+  },
+  {
+    "objectID": "index.html#my-projects",
+    "href": "index.html#my-projects",
+    "title": "Welcome to My Data Science Portfolio",
+    "section": "",
+    "text": "Learn how I explore datasets to find interesting patterns and answer questions.\n\n\n\nSee how I gather data from different sources and prepare it for analysis.\n\n\n\nSee how I tackle a data science project beginning to end.\n\n\n\nThanks for visiting! Feel free to explore my projects and see what I’m learning."
+  },
+  {
+    "objectID": "blogtopic.html",
+    "href": "blogtopic.html",
+    "title": "",
+    "section": "",
+    "text": "Code"
+  },
+  {
+    "objectID": "blogtopic.html#introduction",
+    "href": "blogtopic.html#introduction",
+    "title": "",
+    "section": "Introduction",
+    "text": "Introduction\nIn this blog post, I will explain the basics of linear regression. I will provide simple code that can be used to plot your own scatterplots and calculate correlations at home or for a simple project at work. I will also tell you how you can interpret variable relationships using correlation. Linear regression is a simple tool used to see if two different things (often referred to as variables) have a relationship. These “things” can be anything! It could be the level of stress someone experiences and its relationship to how much work there is at one’s school or job, or, in our example today, whether the amount spent in our advertising budget has a relationship with how many sales are made.\n\nNote: The data used today was randomly generated by a computer. This data in no way indicates the relationship between Advertising Budget and Sales and should not be used in any way other than to demonstrate how to use linear regression in Python."
+  },
+  {
+    "objectID": "blogtopic.html#tidy-data",
+    "href": "blogtopic.html#tidy-data",
+    "title": "",
+    "section": "Tidy Data",
+    "text": "Tidy Data\nOne of the most important things you can do for yourself is to have tidy data. Depending on how your data is given to you, it can make the whole coding process exponentially easier. While we will not go into how to create tidy data in this blog post, know that if you have data in a format where you have a clear x and y variable, it will make your life a lot easier."
+  },
+  {
+    "objectID": "blogtopic.html#python-packages",
+    "href": "blogtopic.html#python-packages",
+    "title": "",
+    "section": "Python Packages",
+    "text": "Python Packages\nWe will be using five different Python packages in our code. I will list what they are and briefly explain what we will be using them for. Know that there is much more to each of these packages, but since we are learning about the simple linear regression model and not about packages themselves, I will briefly explain what they are used for.\n\npandas was used to organize and manipulate the data.\n\nseaborn was used to create visualizations like scatterplots and regression lines.\n\nmatplotlib.pyplot was used to customize and save our plots.\n\nscipy.stats was used to calculate the correlation coefficient.\n\nsklearn.linear_model was used to fit and interpret the linear regression model.\n\n\nNote: numpy is another package used in the code, but it was simply used to create the data. You shouldn’t need it otherwise."
+  },
+  {
+    "objectID": "blogtopic.html#simple-linear-regression",
+    "href": "blogtopic.html#simple-linear-regression",
+    "title": "",
+    "section": "Simple Linear Regression",
+    "text": "Simple Linear Regression\nLinear regression is used to show the relationship between two variables—how your x variable affects your y value. Below is the simple linear regression equation:\n\\[\n\\hat{y} = \\beta_0 + \\beta_1 x\n\\]\nIf you remember your algebra class, you might notice that it appears to be the equation of a line. You would be correct. Linear regression is centered around this line equation. When we perform simple linear regression, we fit data to a best-fit line. Using this line, we are then able to see a quantifiable relationship between our two values based on our data. We can even predict what our given y would be if we had an x value we were curious about. This is where the power of linear regression comes into play, especially for data-driven decisions made by companies. The only limitation of our linear regression model is if the x value we desire to calculate is below our minimum or above our maximum x value.\n\nSlope and Intercept\nThe equation for linear regression doesn’t mean much if we can’t explain the two other values in the equation.\n\n\\[\\beta_1\\] is the slope of our line. It is found using the equation below:\n\n\\[\n\\beta_1 = \\frac{\\sum_{i=1}^{n} (x_i - \\bar{x})(y_i - \\bar{y})}\n{\\sum_{i=1}^{n} (x_i - \\bar{x})^2}\n\\]\nHere, \\[\\bar{x}\\] is the average of all the x values in the sample, and \\[\\bar{y}\\] is the average of the y values.\n\\[x_i\\] is an individual x value, and \\[y_i\\] is the corresponding y value.\n\nThe intercept of the line is \\[\\beta_0\\]. It is found using the equation below:\n\n\\[\n\\beta_0 = \\bar{y} - \\beta_1 \\bar{x}\n\\]"
+  },
+  {
+    "objectID": "blogtopic.html#coding-a-graph-in-python",
+    "href": "blogtopic.html#coding-a-graph-in-python",
+    "title": "",
+    "section": "Coding a Graph in Python",
+    "text": "Coding a Graph in Python\nThis is how you would code a simple linear regression model using Python.\n\nStep 1: Start with your packages\nimport pandas as pd\n# numpy is not needed unless you want to create your own data\nimport numpy as np\nimport seaborn as sns\nimport matplotlib.pyplot as plt\nfrom scipy.stats import pearsonr\nfrom sklearn.linear_model import LinearRegression\n\n\n(This was the code used to create the data.)\nn = 100\nadvertising_budget = np.random.normal(loc=50, scale=15, size=n)\nsales = 2.5 * advertising_budget + np.random.normal(loc=0, scale=10, size=n)\n\n\nStep 2: Create Data Frame using pd.DataFrame(‘’:x value, ‘’:y value)\ndf = pd.DataFrame({\n    'Advertising Budget (in thousands)': advertising_budget,\n    'Sales (in thousands)': sales\n})\n\n\nStep 3: Create your model using code below\nmodel = LinearRegression()\n# Use model.fit(df[['&lt;x-axis title&gt;']], df['&lt;y-axis title&gt;'])\nmodel.fit(df[['Advertising Budget (in thousands)']], df['Sales (in thousands)'])\n# df['&lt;Predicted (whatever you want)&gt;']=model.predict(df[['&lt;x-axis title&gt;']])\ndf['Predicted Sales'] = model.predict(df[['Advertising Budget (in thousands)']])\n\n\nStep 4: Plot Scatterplot with regression line using code below\n# set figure size\nplt.figure(figsize=(10, 6))\n# plug in x and y accordingly\nsns.scatterplot(data=df, x='Advertising Budget (in thousands)', y='Sales (in thousands)', label='Actual Sales')\nsns.lineplot(data=df, x='Advertising Budget (in thousands)', y='Predicted Sales', color='red', label='Regression Line')\n# modify title and x and y names on the graph\nplt.title('Advertising Budget vs Sales')\nplt.xlabel('Advertising Budget (in thousands)')\nplt.ylabel('Sales (in thousands)')\n# other aesthetic things\nplt.legend()\nplt.grid(True)\nplt.tight_layout()\nThis code gives the following graph:"
+  },
+  {
+    "objectID": "blogtopic.html#correlation-coefficient",
+    "href": "blogtopic.html#correlation-coefficient",
+    "title": "",
+    "section": "Correlation Coefficient",
+    "text": "Correlation Coefficient\nThe correlation coefficient is a number that tells you how strong the relationship is between your two variables. It is found using the pearsonr function from the scipy.stats package. The correlation coefficient is a number between -1 and 1. A correlation of 1 means that there is a perfect positive linear relationship between the two variables. A correlation of -1 means that there is a perfect negative linear relationship between the two variables. A correlation of 0 means that there is no linear relationship between the two variables. It is rare to have a correlation of exactly 1 or -1 in real life data, but the closer you are to those numbers, the stronger the relationship is.\nThe equation for the correlation coefficient is below:\n\\[\nr = \\frac{\\sum_{i=1}^{n} (x_i - \\bar{x})(y_i - \\bar{y})}\n{\\sqrt{\\sum_{i=1}^{n} (x_i - \\bar{x})^2} \\sqrt{\\sum_{i=1}^{n} (y_i - \\bar{y})^2}}\n\\]\nYou can calculate the correlation coefficient using the following code.\ncorrelation, _ = pearsonr(df['Advertising Budget (in thousands)'], df['Sales (in thousands)'])\nThis code returns a correlation of approximately 0.97, indicating a very strong positive linear relationship between advertising budget and sales in this example."
+  },
+  {
+    "objectID": "blogtopic.html#conclusion",
+    "href": "blogtopic.html#conclusion",
+    "title": "",
+    "section": "Conclusion",
+    "text": "Conclusion\nIn conclusion, linear regression is a powerful tool that can help you understand the relationship between two variables. By fitting a best-fit line to your data, you can quantify how changes in one variable may affect another. The correlation coefficient further aids in assessing the strength and direction of this relationship. With the provided Python code, you can easily implement linear regression and visualize the results, making it a valuable skill for data analysis in various fields. Whether you’re working on academic research or business analytics, mastering linear regression will enhance your ability to make informed decisions based on data.\nTry the code about using your own data! It is easier than you think.\nThank you for reading my blog post! If you have any questions or comments, feel free to reach out."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me – Corbin Brinkerhoff",
+    "section": "",
+    "text": "Corbin Brinkerhoff"
+  },
+  {
+    "objectID": "about.html#me",
+    "href": "about.html#me",
+    "title": "About Me – Corbin Brinkerhoff",
+    "section": "",
+    "text": "Corbin Brinkerhoff"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me – Corbin Brinkerhoff",
+    "section": "Education",
+    "text": "Education\n\nBachelor of Statistics (Data Science emphasis) — Brigham Young University (Expected April 2026)\nRelevant coursework: Stats 121, Stats 201, Stats 250 (R programming), Stats 240 (Probability & Inference), Stat 230 (Data Modeling & Experimental Design), CS 180 (Data Science into Python, SQL, C++), CS 235 (C++ Programming)\n\nCurrently taking higher-level classes in Data Science, Linear Regression, and Machine Learning\nLived in Portugal for two years — fluent in Portuguese"
+  },
+  {
+    "objectID": "about.html#work-experience",
+    "href": "about.html#work-experience",
+    "title": "About Me – Corbin Brinkerhoff",
+    "section": "Work Experience",
+    "text": "Work Experience\n\nStatistics 121 Teaching Assistant — BYU (Dec 2024 – Present)\n\nHelp students understand core statistical principles and course material\nCommunicate with students via email, in-person help, and video calls\nAttend regular meetings to discuss student needs and course logistics\nGrade and review student work, identifying common mistakes and providing feedback\n\nGround Operations Agent (GOA) — Allegiant Air, Provo Airport (May 2023 – Nov 2024)\n\nCollaborated with a team to prepare aircraft for flight and ensured on-time departures\nAdapted quickly to changing schedules and operational needs\nLearned and operated ground equipment and followed safety procedures\n\nFacilities Custodial Team Lead — BYU Missionary Training Center (Feb 2022 – Apr 2023)\n\nManaged a custodial team for meetings and events, ensuring tasks were completed to standard\nExercised initiative and problem-solving to coordinate logistics and staffing\n\nOffice Executive Secretary — Church Mission, Lisbon, Portugal (May 2021 – Nov 2021)\n\nManaged organizational data using Microsoft Excel and handled legal paperwork\nInteracted with government officials to obtain residency documentation\nPrioritized tasks, managed schedules, and coordinated transportation across Portugal"
+  },
+  {
+    "objectID": "about.html#skills-interests",
+    "href": "about.html#skills-interests",
+    "title": "About Me – Corbin Brinkerhoff",
+    "section": "Skills & Interests",
+    "text": "Skills & Interests\n\nTechnical Skills\n\nProgramming: Python, R, SQL, C++, VBA, SAS\nData Analysis: Pandas, NumPy\nVisualization: Matplotlib, Seaborn, ggplot\nMachine Learning: Scikit-learn\nTools: Jupyter Notebooks, Git/GitHub, Excel\n\n\n\nAreas of Interest\n\nBusiness Intelligence and Data Visualization\nMachine Learning and AI\nData Consulting\n\n\n\nPersonal Interests\n\nHiking, climbing, canyyoneering\nGames (board games, video games, card games, anygames)\nTTRPGs (tabletop role-playing games)\nMagic: The Gathering"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About Me – Corbin Brinkerhoff",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: brink.corbin@gmail.com\nGitHub: My GitHub\nLinkedIn: My LinkedIn\n\n\nThis portfolio showcases my learning progress and projects completed during my data science studies."
+  },
+  {
+    "objectID": "data-acquisition.html",
+    "href": "data-acquisition.html",
+    "title": "",
+    "section": "",
+    "text": "Code"
+  },
+  {
+    "objectID": "data-acquisition.html#why-dive-into-crypto",
+    "href": "data-acquisition.html#why-dive-into-crypto",
+    "title": "",
+    "section": "Why Dive Into Crypto?",
+    "text": "Why Dive Into Crypto?\nIf you’ve been anywhere near the financial world lately, you know crypto isn’t just a buzzword; it’s a full-blown phenomenon. From Bitcoin hitting jaw-dropping highs to meme coins making headlines, the crypto market is fast, unpredictable, and fascinating. It’s not like traditional stocks that sleep on weekends; this market runs 24/7, and every hour can bring a new twist. Interestingly, my brother recently bought some Dogecoin and has actually made a solid profit from it.\nSo why analyze the top 200 cryptocurrencies? Simple: this is where the action is. These coins represent the biggest players in the game, with massive market caps, enormous trading volumes, and trends that ripple across the entire ecosystem. By digging into metrics like price changes, market cap, 24 hour change, 7 day change, and trading volume, we can uncover patterns that tell us who’s leading, who’s lagging, and where the next big move might come from.\nWhether you’re an investor looking for insights, a data enthusiast who loves spotting trends, or just curious about what drives this digital gold rush, this dataset is a goldmine. We’ll explore volatility, momentum, and adoption signals, all through the lens of real numbers. Think of it as decoding the heartbeat of the crypto world."
+  },
+  {
+    "objectID": "data-acquisition.html#what-am-i-hoping-to-learn",
+    "href": "data-acquisition.html#what-am-i-hoping-to-learn",
+    "title": "",
+    "section": "What Am I Hoping to Learn?",
+    "text": "What Am I Hoping to Learn?\nWhen I look at this dataset, I’m curious about the relationships hiding in the numbers. Are there interesting correlations between variables like price, market cap, and trading volume? What do the extremes look like, who’s sitting at the top and bottom for each metric? I also want to dive into the shape of the data: how do these distributions look in their raw form, and what happens when we transform them? I’m hoping to explore whether any linear regressions between variables reveal intriguing patterns or unexpected insights.\nBefore scraping data from CoinMarketCap, I checked their terms of service to confirm that accessing publicly available information for non commercial, educational purposes was allowed. I only collected data that was already visible on their site, with no hidden endpoints or private APIs, and I kept the requests minimal to avoid putting unnecessary load on their servers. In other words, I followed good scraping practices: no aggressive crawling, no bypassing restrictions, and no storing sensitive user data. The goal was simply to gather market stats that anyone could view on the site, and to do it in a way that respects the platform and its resources."
+  },
+  {
+    "objectID": "data-acquisition.html#how-i-got-the-data-and-how-you-can-too",
+    "href": "data-acquisition.html#how-i-got-the-data-and-how-you-can-too",
+    "title": "",
+    "section": "How I Got the Data (And How You Can Too)",
+    "text": "How I Got the Data (And How You Can Too)\nGetting this dataset was easier than you might think. CoinMarketCap provides a public API that lets you pull cryptocurrency data without scraping individual pages. I used Python with the requests library to make a simple GET request to their API, asking for the top 200 coins sorted by market cap. Once the data came back in JSON format, I extracted key details like name, symbol, price, market cap, 24 hour and 7 day changes, and trading volume. From there, I built a Pandas DataFrame and saved it as a CSV file for analysis. If you want to try something similar, all you need is: • A public API endpoint (CoinMarketCap has one) • Python with requests and pandas • A few lines of code to fetch, clean, and save the data It’s a great way to start exploring real world financial data without diving into complex scraping or paid data sources."
+  },
+  {
+    "objectID": "data-acquisition.html#eda-highlights-what-did-we-find",
+    "href": "data-acquisition.html#eda-highlights-what-did-we-find",
+    "title": "",
+    "section": "EDA Highlights: What Did We Find?",
+    "text": "EDA Highlights: What Did We Find?\nThe final dataset includes 200 cryptocurrencies with six key variables: Name, Price, 7 day Change (%), Market Cap, Volume (24h), and Circulating Supply. All columns are complete with no missing values, which made analysis straightforward. When we looked at summary statistics, the numbers told an interesting story. Prices range from fractions of a cent (as low as $0.0000004) to over $102,000 for Bitcoin. Market caps span from about $162 million to more than $2 trillion, and 24 hour trading volumes vary from a few million to nearly $140 billion. The median price is just $0.58, showing how most coins are far below the giants like Bitcoin and Ethereum. Distributions were highly skewed, so log transformations helped reveal patterns. Market cap and volume both showed heavy right tails, dominated by a few massive players. Correlation analysis uncovered some fascinating relationships: • Price vs Circulating Supply had a strong negative correlation (-0.98), which makes sense since coins with huge supply tend to have lower prices. A linear regression confirmed this with an impressive R² of 0.83. • Market Cap vs Volume (24h) showed a positive correlation (0.67) and a decent regression fit (R² ≈ 0.60), meaning bigger coins generally see more trading activity. The most surprising insight? The crypto world is extremely top heavy. A handful of coins dominate market cap and volume, while the majority trade at tiny prices with relatively small liquidity. These patterns highlight the volatility and inequality in the crypto ecosystem, offering plenty of room for deeper analysis."
+  },
+  {
+    "objectID": "data-acquisition.html#exploratory-data-analysis-eda-at-a-glance",
+    "href": "data-acquisition.html#exploratory-data-analysis-eda-at-a-glance",
+    "title": "",
+    "section": "Exploratory Data Analysis (EDA) at a Glance",
+    "text": "Exploratory Data Analysis (EDA) at a Glance\n\nSummary Statistics\n\n\nTotal Sample Size:\nThe dataset contains 200 cryptocurrencies, each with six variables: Name, Price, 7-day Change (%), Market Cap, Volume (24h), and Circulating Supply.\n\n\nCounts of Categorical Variables:\nName and Symbol are categorical, with 200 unique entries (one for each cryptocurrency). There are no missing values in any column.\n\n\nSummaries of Numeric Variables:\n\nPrice:\nMin: $0.0000004 Max: $102,971 Mean: $616.87 Median: $0.58 Highly skewed toward a few very high-priced coins like Bitcoin.\n\n\nMarket Cap:\nMin: $161.86 million Max: $2.05 trillion Mean: $17.18 billion Median: $527.63 million Heavy right tail dominated by Bitcoin and Ethereum.\n\n\nVolume (24h):\nMin: $2.75 million Max: $139.76 billion Mean: $1.63 billion Median: $47.18 million.\n\n\nCirculating Supply:\nMin: 33,949 Max: 999,990,000,000,000 Mean: 16.5 trillion Median: 1.04 billion Extremely skewed due to tokens with massive supply.\n\n\n\nSummary Graphics\nHere are some key visualizations from the EDA:  Figure 1: Log Transformed Price Distribution  Figure 2: Log Transformed Market Cap Distribution, notice the right skewed.  Figure 3: Circulating Supply vs Price Linear Regression(Log Transformed)  Figure 4: Market Cap vs Volume (24h) Linear Regression (Log Transformed)"
+  },
+  {
+    "objectID": "data-acquisition.html#further-resources",
+    "href": "data-acquisition.html#further-resources",
+    "title": "",
+    "section": "Further Resources",
+    "text": "Further Resources\n\nLink to Documentation\nCoinMarketCap Web Scraper for CoinMarketCap on GitHub\n\nCode Repository for Blog Post\nEDA and Data Acquisition Code"
+  },
+  {
+    "objectID": "projects/data-acquisition.html",
+    "href": "projects/data-acquisition.html",
+    "title": "Data Acquisition Project",
+    "section": "",
+    "text": "This is coming down the pipeline. Check again later.",
+    "crumbs": [
+      "Data Acquisition Project"
+    ]
+  },
+  {
+    "objectID": "projects/final-project.html",
+    "href": "projects/final-project.html",
+    "title": "Final Project",
+    "section": "",
+    "text": "This is coming down the pipeline. Check again later.",
+    "crumbs": [
+      "Final Project"
+    ]
+  }
+]
